@@ -16,9 +16,3 @@
 ![Gabriele GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieleknop&show_icons=true&theme=radical)
   
 <br/>
-
-
-
-
-
-
