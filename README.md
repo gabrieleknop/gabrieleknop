@@ -7,6 +7,8 @@
 </br>
  📖 UX/UI Designer
  </br>
+ 👩‍💻 Estagiária em Análise de Mídias
+ </br>
  🚨 Técnica em Enfermagem
  </br>
 🌱 Em busca de estágio na Tecnologia
