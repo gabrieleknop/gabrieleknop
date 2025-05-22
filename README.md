@@ -5,7 +5,7 @@
    <a href="https://www.figma.com/@gabrielecristin" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <br/>
 </br>
- 📖 UX/UI Designer
+ 📖 UX/UI Designer | Graphic Designer
  </br>
  👩‍💻 Estagiária em Análise de Mídias
  </br>
