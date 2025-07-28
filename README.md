@@ -11,7 +11,7 @@
  </br>
  🚨 Técnica em Enfermagem
  </br>
-🌱 Em busca de estágio na Tecnologia
+🌱 Em busca de uma vaga no Design
 </br>
 <br/>
   
